@@ -1,1 +1,1 @@
-# Python_Prog
+This repository contains a curated collection of small, clean, and practical Python programs focused on building core programming skills through hands-on practice. Each script is intentionally kept simple, readable, and purpose-driven, covering real-world logic such as user interaction, time-based calculations, validation, and basic automation. The goal of this repository is to demonstrate consistency, problem-solving ability, and a strong foundation in Python through well-structured mini projects.
